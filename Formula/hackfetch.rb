@@ -1,8 +1,8 @@
 class Hackfetch < Formula
   desc "Hack Club themed system fetch with Hackatime stats"
   homepage "https://github.com/xerneas3318/hackfetch"
-  url "https://github.com/xerneas3318/hackfetch/archive/refs/tags/v1.10.1.tar.gz"
-  sha256 "ec4cc44232f806aa680b56c5c87ea6eb1829e047dca20ae0c5b3bcdd9a22b7ca"
+  url "https://github.com/xerneas3318/hackfetch/archive/refs/tags/v2.0.0.tar.gz"
+  sha256 "c81421e3012acd752b451ffd954a93c1a0792d495b2ce4b2951ef6bc38b78a1a"
   license "PolyForm-Noncommercial-1.0.0"
   head "https://github.com/xerneas3318/hackfetch.git", branch: "main"
 
